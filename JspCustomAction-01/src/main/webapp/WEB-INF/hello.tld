@@ -1,0 +1,13 @@
+<taglib>
+<jsp-version>2.1</jsp-version>
+<tlibversion>1.0</tlibversion>
+<tag>
+<name>hello</name>
+<tag-class>com.madhu.handler.HelloHandler</tag-class>
+<body-content>jsp</body-content>
+<attribute>
+<name>name</name>
+<required>false</required>
+</attribute>
+</tag>
+</taglib>
